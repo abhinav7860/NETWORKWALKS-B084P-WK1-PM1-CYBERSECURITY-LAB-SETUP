@@ -106,11 +106,11 @@ Screenshot showing the Kali Linux network configuration.
 
 ![Configure Kali Linux Network](screenshots/Configure%20the%20Kali%20Linux%20Network.png)
 
-### 3. Kali Linux Network Interface
+### 3. Kali Linux  Interface
 
-Screenshot showing the Kali Linux network interface configuration.
+Screenshot showing the Kali Linux interface.
 
-![Kali Linux Network Interface](screenshots/Kali%20interface.png)
+![Kali Linux  Interface](screenshots/Kali%20interface.png)
 
 ---
 
